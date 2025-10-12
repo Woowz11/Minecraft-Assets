@@ -1,0 +1,16 @@
+[
+{
+	"modid": "IC2",
+	"name": "IndustrialCraft 2",
+	"description": "Industrial age themed expansion for Minecraft.",
+	"version": "2.0.397-experimental",
+	"credits": "Contributions by many people",
+	"authors": ["Alblaka","Player","RichardG","Thunderdark","GregoriusT","alexthesax","Drashian","Elementalist","Feanturi","Lurch1985","SirusKing","tahu44"],
+	"logoFile": "",
+	"url": "http://www.industrial-craft.net",
+	"updateUrl": "",
+	"parent": "",
+	"screenshots": [],
+	"dependencies": []
+}
+]
