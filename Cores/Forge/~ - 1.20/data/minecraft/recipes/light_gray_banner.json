@@ -7,7 +7,7 @@
       "item": "minecraft:light_gray_wool"
     },
     "|": {
-      "item": "minecraft:stick"
+      "tag": "forge:rods/wooden"
     }
   },
   "pattern": [

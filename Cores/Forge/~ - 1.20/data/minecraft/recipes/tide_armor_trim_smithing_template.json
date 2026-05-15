@@ -3,7 +3,7 @@
   "category": "misc",
   "key": {
     "#": {
-      "item": "minecraft:diamond"
+      "tag": "forge:gems/diamond"
     },
     "C": {
       "item": "minecraft:prismarine"

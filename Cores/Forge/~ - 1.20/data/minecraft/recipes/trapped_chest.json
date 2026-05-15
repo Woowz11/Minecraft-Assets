@@ -3,7 +3,7 @@
   "category": "redstone",
   "ingredients": [
     {
-      "item": "minecraft:chest"
+      "tag": "forge:chests/wooden"
     },
     {
       "item": "minecraft:tripwire_hook"

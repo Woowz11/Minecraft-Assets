@@ -6,7 +6,7 @@
       "item": "minecraft:glass"
     },
     "S": {
-      "item": "minecraft:amethyst_shard"
+      "tag": "forge:gems/amethyst"
     }
   },
   "pattern": [

@@ -6,7 +6,7 @@
       "item": "minecraft:bamboo"
     },
     "~": {
-      "item": "minecraft:string"
+      "tag": "forge:string"
     }
   },
   "pattern": [

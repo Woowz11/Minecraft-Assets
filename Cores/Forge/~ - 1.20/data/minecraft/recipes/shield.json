@@ -6,7 +6,7 @@
       "tag": "minecraft:planks"
     },
     "o": {
-      "item": "minecraft:iron_ingot"
+      "tag": "forge:ingots/iron"
     }
   },
   "pattern": [

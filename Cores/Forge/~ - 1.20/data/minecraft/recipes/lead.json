@@ -6,7 +6,7 @@
       "item": "minecraft:slime_ball"
     },
     "~": {
-      "item": "minecraft:string"
+      "tag": "forge:string"
     }
   },
   "pattern": [

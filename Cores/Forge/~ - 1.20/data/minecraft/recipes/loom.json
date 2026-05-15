@@ -6,7 +6,7 @@
       "tag": "minecraft:planks"
     },
     "@": {
-      "item": "minecraft:string"
+      "tag": "forge:string"
     }
   },
   "pattern": [

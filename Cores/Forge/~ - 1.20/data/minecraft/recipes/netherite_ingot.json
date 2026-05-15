@@ -16,16 +16,16 @@
       "item": "minecraft:netherite_scrap"
     },
     {
-      "item": "minecraft:gold_ingot"
+      "tag": "forge:ingots/gold"
     },
     {
-      "item": "minecraft:gold_ingot"
+      "tag": "forge:ingots/gold"
     },
     {
-      "item": "minecraft:gold_ingot"
+      "tag": "forge:ingots/gold"
     },
     {
-      "item": "minecraft:gold_ingot"
+      "tag": "forge:ingots/gold"
     }
   ],
   "result": {

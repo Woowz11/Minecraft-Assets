@@ -7,7 +7,7 @@
       "item": "minecraft:magenta_wool"
     },
     "|": {
-      "item": "minecraft:stick"
+      "tag": "forge:rods/wooden"
     }
   },
   "pattern": [
